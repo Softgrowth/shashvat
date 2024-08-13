@@ -71,16 +71,18 @@
  <div class="desktop_logo">
   <img class="trans_logo" src="images/logo_agri.png" alt="agronimics_logo" srcset="">
  </div>
- <div class="mobile_logo">
-  <img class="" src="images/logo_cut.png" alt="agronimics_logo" srcset="">
- </div>
+ 
 <header class="site-header mo-left header fullwidth">
 		<!-- main header -->
         <div class="sticky-header main-bar-wraper navbar-expand-lg">
             <div class="main-bar clearfix">
-                <div class="container clearfix d-flex justify-content-center">
+                <div class="container  clearfix d-flex justify-content-center">
                     <!-- website logo -->
                     <div class="logo-header mostion ">
+
+                    <div class="mobile_logo">
+  <img class="" src="images/logo_cut.png" alt="agronimics_logo" srcset="">
+ </div>
 					 <!-- <a href="home"><img src="images/logo/Logo.png" class="logo" alt=""> -->
 						</a>
 						<!-- <a href="#">Shashvat Agronomics</a> -->
