@@ -51,7 +51,7 @@
             <div class="main-bar clearfix">
                 <div class="container clearfix d-flex justify-content-center">
                     <!-- website logo -->
-                    <div class="logo-header mostion">
+                    <div class="logo-header mostion trans_logo">
 					 <a href="home"><img src="images/logo/Logo.png" class="logo" alt="">
 						</a>
 						<!-- <a href="#">Shashvat Agronomics</a> -->
