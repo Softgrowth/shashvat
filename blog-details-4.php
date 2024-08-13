@@ -96,17 +96,18 @@
                             </div>
                             <div class="dez-post-text">
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect1" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर पिकाचे सुधारीत लागवड तंत्रज्ञान
+                                           
+                                            <h4 class="text-light p-1 mb-0">  तूर पिकाचे सुधारीत लागवड तंत्रज्ञान </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect1" role="region" aria-labelledby="collapse5id"
                                         class="collapse-panel app-collapse-expanded">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -141,24 +142,21 @@
                                 </div>
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect2" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर पिकाचे सुधारीत लागवड तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0"> जमीन </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect2" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
-                                                <th
-                                                    class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                    <h4 class="text-light p-1 mb-0"> जमीन </h4>
-                                                </th>
+                                            <table class="table-responsive border-left border-dark m-0">
+                                                
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
 
@@ -182,25 +180,22 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect3" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर पिकाचे सुधारीत लागवड तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0"> पुर्व मशागत </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect3" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
 
-                                            <table>
-                                                <th
-                                                    class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                    <h4 class="text-light p-1 mb-0"> पुर्व मशागत </h4>
-                                                </th>
+                                            <table class="table-responsive border-left border-dark m-0">
+                                               
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         तूर या पिकाची मुळे जमिनीत खोल जात असल्यामुळे पहिली
@@ -219,24 +214,21 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect4" id="collapse5id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर पिकाचे सुधारीत लागवड तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0"> पेरणीची वेळ
+                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect4" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
-                                                <th
-                                                    class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                    <h4 class="text-light p-1 mb-0"> पेरणीची वेळ
-                                                    </h4>
-                                                </th>
+                                            <table class="table-responsive border-left border-dark m-0">
+                                               
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         या पिकाची पेरणी योग्य पाऊस झाल्यावर आणि
@@ -257,10 +249,13 @@
                                 </div>
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
                                         aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर पिकाचे सुधारीत लागवड तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0">
+                                                            विदर्भाकरीता तूरीचे
+                                                            लागवडीसाठी प्रसारीत वाण
+                                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
@@ -268,18 +263,10 @@
                                         </span>
                                     </button>
                                     <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                        class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table class="table-responsive  border-left border-dark">
-                                                <tr>
-                                                    <th class="bg-secondary  text-light text-center mt-5  mb-0 "
-                                                        colspan="6">
-                                                        <h4 class="text-light p-1 mb-0">
-                                                            विदर्भाकरीता तूरीचे
-                                                            लागवडीसाठी प्रसारीत वाण
-                                                        </h4>
-                                                    </th>
-                                                </tr>
+                                            <table class="table-responsive  border-left border-dark m-0">
+                                                
                                                 <tr class="">
                                                     <th class=" text-dark border border-dark border-top-0">
                                                         वाण
@@ -598,31 +585,25 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect6" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर पिकाचे सुधारीत लागवड
-                                            तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0">
+                                                            बीज
+                                                            प्रक्रिया
+                                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect6" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
+                                            <table class="table-responsive border-left border-dark m-0">
 
-                                                <tr>
-                                                    <th
-                                                        class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                        <h4 class="text-light p-1 mb-0">
-                                                            बीज
-                                                            प्रक्रिया
-                                                        </h4>
-                                                    </th>
-                                                </tr>
+                                                
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         पेरणीपुर्वी
@@ -657,31 +638,24 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect7" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर पिकाचे
-                                            सुधारीत लागवड
-                                            तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0">
+                                                            खते
+                                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect7" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
+                                            <table class="table-responsive border-left border-dark m-0">
 
-                                                <tr>
-                                                    <th
-                                                        class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                        <h4 class="text-light p-1 mb-0">
-                                                            खते
-                                                        </h4>
-                                                    </th>
-                                                </tr>
+                                               
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         प्रति
@@ -733,33 +707,24 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect8" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर
-                                            पिकाचे
-                                            सुधारीत
-                                            लागवड
-                                            तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0">
+                                                            आंतरमशागत
+                                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect8" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
+                                            <table class="table-responsive border-left border-dark m-0">
 
-                                                <tr>
-                                                    <th
-                                                        class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                        <h4 class="text-light p-1 mb-0">
-                                                            आंतरमशागत
-                                                        </h4>
-                                                    </th>
-                                                </tr>
+                                            
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         पिक
@@ -814,34 +779,25 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect9" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर
-                                            पिकाचे
-                                            सुधारीत
-                                            लागवड
-                                            तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0">
+                                                            पाणी
+                                                            व्यवस्थापन
+                                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect9" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
+                                            <table class="table-responsive border-left border-dark m-0">
 
-                                                <tr>
-                                                    <th
-                                                        class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                        <h4 class="text-light p-1 mb-0">
-                                                            पाणी
-                                                            व्यवस्थापन
-                                                        </h4>
-                                                    </th>
-                                                </tr>
+                                                
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         तूर
@@ -948,35 +904,26 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect10" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर
-                                            पिकाचे
-                                            सुधारीत
-                                            लागवड
-                                            तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0">
+                                                            आंतरपिक
+                                                            आणि
+                                                            मिश्रपिक
+                                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect10" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
-
-                                                <tr>
-                                                    <th
-                                                        class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                        <h4 class="text-light p-1 mb-0">
-                                                            आंतरपिक
-                                                            आणि
-                                                            मिश्रपिक
-                                                        </h4>
-                                                    </th>
-                                                </tr>
+                                            <table class="table-responsive border-left border-dark m-0">
+ 
+                                              
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         पारंपारीक
@@ -1085,36 +1032,27 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect11" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर
-                                            पिकाचे
-                                            सुधारीत
-                                            लागवड
-                                            तंत्रज्ञान
+                                        <h4 class="text-light p-1 mb-0">
+                                                            काढणी,
+                                                            मळणी
+                                                            व
+                                                            साठवण
+                                                        </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
                                                 class="collapse-icon text-light">
                                                 <path class="icon-path-line" />
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
+                                    <div id="sect11" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
+                                            <table class="table-responsive border-left border-dark m-0">
 
-                                                <tr>
-                                                    <th
-                                                        class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                        <h4 class="text-light p-1 mb-0">
-                                                            काढणी,
-                                                            मळणी
-                                                            व
-                                                            साठवण
-                                                        </h4>
-                                                    </th>
-                                                </tr>
+                                               
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         तुरीच्या
@@ -1171,28 +1109,10 @@
 
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect12" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर
-                                            पिकाचे
-                                            सुधारीत
-                                            लागवड
-                                            तंत्रज्ञान
-                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
-                                                class="collapse-icon text-light">
-                                                <path class="icon-path-line" />
-                                            </svg>
-                                        </span>
-                                    </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
-                                        <div class="collapse-panel-inner-wrapper content-text">
-                                            <table class="table-responsive  border-left border-dark">
-                                                <tr>
-                                                    <td class="bg-secondary text-light text-center mt-5  mb-0 "
-                                                        colspan="3">
-                                                        <h4 class="text-light p-1 mb-0">
+                                        <h4 class="text-light p-1 mb-0">
                                                             तूर
                                                             पिकावरील
                                                             किडी
@@ -1200,8 +1120,17 @@
                                                             रोग
                                                             व्यवस्थापन
                                                         </h4>
-                                                    </td>
-                                                </tr>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon text-light">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect12" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                            <table class="table-responsive  border-left border-dark m-0">
+                                               
                                                 <tr class="">
                                                     <th class="col-md-2 text-dark border border-dark border-top-0">
                                                         कीटक
@@ -2066,37 +1995,28 @@
                                 </div>
 
                                 <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
+                                        aria-controls="sect13" id="collapse5id" app-collapse-header-btn>
                                         <span class="collapse-title">
-                                            तूर
-                                            पिकाचे
-                                            सुधारीत
-                                            लागवड
-                                            तंत्रज्ञान
-                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
-                                                class="collapse-icon text-light">
-                                                <path class="icon-path-line" />
-                                            </svg>
-                                        </span>
-                                    </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
-                                        <div class="collapse-panel-inner-wrapper content-text">
-                                            <table>
-
-                                                <tr>
-                                                    <th
-                                                        class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">
-                                                        <h4 class="text-light p-1 mb-0">
+                                        <h4 class="text-light p-1 mb-0">
                                                             तूर
                                                             पिकासाठी
                                                             विशेष
                                                             सूचना
                                                             :
                                                         </h4>
-                                                    </th>
-                                                </tr>
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon text-light">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect13" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel  ">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                            <table class="table-responsive border-left border-dark m-0">
+
+                                               
                                                 <tr class="">
                                                     <td class="col-md-12 text-dark border border-dark border-top-0">
                                                         १.तुरीच्या
@@ -2229,6 +2149,7 @@
 
 
                             </div>
+                            
 
 
 
@@ -2604,7 +2525,7 @@
 
                 if (!isIndipendente && collapse !== btnElement) {
                     collapse.setAttribute('aria-expanded', false);
-                    contentEl.classList.remove('app-collapse-expanded');
+                    contentEl.classList.remove(' ');
                 }
             })
         }
@@ -2624,10 +2545,10 @@
             let open = btnElement.getAttribute('aria-expanded') === 'true';
             if (open) {
                 btnElement.setAttribute('aria-expanded', `${!open}`);
-                contentEl.classList.remove('app-collapse-expanded');
+                contentEl.classList.remove(' ');
             } else {
                 btnElement.setAttribute('aria-expanded', `${!open}`);
-                contentEl.classList.add('app-collapse-expanded');
+                contentEl.classList.add(' ');
             }
 
         }
