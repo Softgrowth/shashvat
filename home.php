@@ -295,7 +295,7 @@
 	  <source src="images/agriculture.mp4" type="video/mp4">
 	  </video>
 	  <div class="carousel-caption d-none d-md-block  car_caption">
-	   <h1 class="text-light">Creating radical change in agriculture</h1>
+	   <!-- <h1 class="text-light">Creating radical change in agriculture</h1> -->
         <!--<p>Some representative placeholder content for the first slide.</p>-->
       
 </div>
