@@ -3,6 +3,16 @@
  
  <style>
      @import 'css/sticky_menu.css';
+
+     .trans_logo{
+      width: 200px;
+  position: fixed;
+  top: -30px;
+  z-index: 9999;
+  background: #7b1e1e;
+  border-radius: 85px 0;
+  left: -20px;
+     }
  </style>
  
  <script>
@@ -45,7 +55,7 @@
  
  
  <div>
-  <img src="images/agronimics_logo.jpeg" alt="agronimics_logo" srcset="">
+  <img class="trans_logo" src="images/logo_agri.png" alt="agronimics_logo" srcset="">
  </div>
 <header class="site-header mo-left header fullwidth">
 		<!-- main header -->
@@ -53,8 +63,8 @@
             <div class="main-bar clearfix">
                 <div class="container clearfix d-flex justify-content-center">
                     <!-- website logo -->
-                    <div class="logo-header mostion trans_logo">
-					 <a href="home"><img src="images/logo/Logo.png" class="logo" alt="">
+                    <div class="logo-header mostion ">
+					 <!-- <a href="home"><img src="images/logo/Logo.png" class="logo" alt=""> -->
 						</a>
 						<!-- <a href="#">Shashvat Agronomics</a> -->
 					</div>

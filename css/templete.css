@@ -931,14 +931,14 @@
 	-o-transition:all 0.5s;
 }
 .city-bx:hover:after{
-	background-color:#fff;
+	background-color:transparent !important;
 	opacity:0.95;
 }
 .city-info{
 	position:relative;
 	z-index:1;
 	color:#fff;
-	padding: 20px 25px;
+	/* padding: 20px 25px; */
 }
 .city-info h5{
 	font-size:22px;
