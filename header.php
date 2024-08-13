@@ -13,6 +13,20 @@
   border-radius: 85px 0;
   left: -20px;
      }
+
+     .mobile_logo{
+      display: none;
+     }
+
+     @media (max-width: 992px) {
+      .mobile_logo{
+      display: block;
+     }
+
+     .desktop_logo{
+      display: none;
+     }
+}
  </style>
  
  <script>
@@ -54,8 +68,11 @@
  </head>
  
  
- <div>
+ <div class="desktop_logo">
   <img class="trans_logo" src="images/logo_agri.png" alt="agronimics_logo" srcset="">
+ </div>
+ <div class="mobile_logo">
+  <img class="" src="images/logo_cut.png" alt="agronimics_logo" srcset="">
  </div>
 <header class="site-header mo-left header fullwidth">
 		<!-- main header -->

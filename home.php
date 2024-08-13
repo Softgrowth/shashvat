@@ -535,11 +535,13 @@
 								<div class="city-info text-center">
 							
 								<!-- <img src="images/blog/cotton_logo.jpegh" alt="seeding.gif" class="imagee-icon"> -->
-									<h6 class="pt-4" style="font-size:14px;"><b> कापूस लागवड तंत्रज्ञान  </b></h6>
+									<!-- <h6 class="pt-4" style="font-size:14px;"><b> कापूस लागवड तंत्रज्ञान  </b></h6> -->
 									<!-- <a href="blog-details">More Details</a> -->
 								</div>
 							</div>
 						</a>
+						<h6 class="pt-4 text-center" style="font-size:14px;"><b> कापूस लागवड तंत्रज्ञान  </b></h6>
+
 					</div>
 					<div class="col-lg-4 col-sm-6 col-md-6 m-b30">
 						<a href="blog-details-1">
@@ -547,11 +549,13 @@
 								<div class="city-info text-center">
 							
 								<!-- <img src="images/blog/cotton_logo.jpeg" alt="seeding.gif" class="imagee-icon"> -->
-									<h6 class="pt-4" style="font-size:14px;"><b> धान  लागवड तंत्रज्ञान  </b></h6>
+									<!-- <h6 class="pt-4" style="font-size:14px;"><b> धान  लागवड तंत्रज्ञान  </b></h6> -->
 									<!-- <a href="blog-details-1">More Details</a> -->
 								</div>
 							</div>
 						</a>
+						<h6 class="pt-4 text-center"  style="font-size:14px;"><b> धान  लागवड तंत्रज्ञान  </b></h6>
+
 					</div>
 					<div class="col-lg-4 col-sm-6 col-md-6 m-b30">
 						<a href="blog-details-2">
@@ -559,11 +563,13 @@
 								<div class="city-info text-center">
 							
 								<!-- <img src="images/blog/cotton_logo.jpeg" alt="seeding.gif" class="imagee-icon"> -->
-									<h6 class="pt-4" style="font-size:14px;"><b> सोयाबीन लागवड तंत्रज्ञान  </b></h6>
+									<!-- <h6 class="pt-4" style="font-size:14px;"><b> सोयाबीन लागवड तंत्रज्ञान  </b></h6> -->
 									<!-- <a href="blog-details-2">More Details</a> -->
 								</div>
 							</div>
 						</a>
+						<h6 class="pt-4 text-center" style="font-size:14px;"><b> सोयाबीन लागवड तंत्रज्ञान  </b></h6>
+
 					</div>
 					<div class="col-lg-4 col-sm-6 col-md-6 m-b30">
 						<a href="blog-details-3">
@@ -571,11 +577,13 @@
 								<div class="city-info text-center">
 							
 								<!-- <img src="images/blog/cotton_logo.jpeg" alt="seeding.gif" class="imagee-icon"> -->
-									<h6 class="pt-4" style="font-size:14px;"><b> मिरची लागवड तंत्रज्ञान  </b></h6>
+									<!-- <h6 class="pt-4" style="font-size:14px;"><b> मिरची लागवड तंत्रज्ञान  </b></h6> -->
 									<!-- <a href="blog-details-3">More Details</a> -->
 								</div>
 							</div>
+							
 						</a>
+									<h6 class="pt-4 text-center" style="font-size:14px;"><b> मिरची लागवड तंत्रज्ञान  </b></h6>
 					</div>
 					<div class="col-lg-4 col-sm-6 col-md-6 m-b30">
 						<a href="blog-details-4">
@@ -583,11 +591,13 @@
 								<div class="city-info text-center">
 							
 								<!-- <img src="images/blog/cotton_logo.jpeg" alt="seeding.gif" class="imagee-icon"> -->
-									<h6 class="pt-4" style="font-size:14px;"><b>तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  </b></h6>
+									<!-- <h6 class="pt-4" style="font-size:14px;"><b>तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  </b></h6> -->
 									<!-- <a href="blog-details-4">More Details</a> -->
 								</div>
 							</div>
 						</a>
+						<h6 class="pt-4 text-center" style="font-size:14px;"><b>तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  </b></h6>
+
 					</div>
 					</div>
 					</div>
