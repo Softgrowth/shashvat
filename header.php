@@ -5,12 +5,13 @@
      @import 'css/sticky_menu.css';
 
      .trans_logo{
-      width: 200px;
-  position: fixed;
-  top: -30px;
+      
+      width: 70px;
+  /* position: fixed; */
+  /* top: -30px; */
   z-index: 9999;
-  background: #7b1e1e;
-  border-radius: 85px 0;
+  /* background: #7b1e1e; */
+  /* border-radius: 85px 0; */
   left: -20px;
      }
 
@@ -18,12 +19,21 @@
       display: none;
      }
 
+
+    .desktop_logo{
+     height: 100px;
+  padding: 20px 0;
+  justify-content:center;
+    }
+
      @media (max-width: 992px) {
       .mobile_logo{
-      display: block;
+      display: none;
       background:transparent;
      }
-
+     .logo_mobile{
+     background:transparent;
+}
      .desktop_logo{
       display: none;
      }
@@ -69,20 +79,21 @@
  </head>
  
  
- <div class="desktop_logo">
-  <img class="trans_logo" src="images/logo_agri.png" alt="agronimics_logo" srcset="">
- </div>
  
-<header class="site-header mo-left header fullwidth">
+ 
+<header class="site-header mo-left header fullwidth" style="align-content:center;">
 		<!-- main header -->
         <div class="sticky-header main-bar-wraper navbar-expand-lg">
             <div class="main-bar clearfix">
                 <div class="container  clearfix d-flex justify-content-center">
                     <!-- website logo -->
                     <div class="logo-header mostion ">
-
+                    <div class="desktop_logo d-flex">
+  <img class="trans_logo " src="images/logo_agronomic.png" alt="agronimics_logo" srcset="">
+  <img class="trans_logo " src="images/logo_cut.png" alt="agronimics_logo" srcset="">
+ </div>
                     <div class="mobile_logo">
-  <img class="" src="images/logo_cut.png" alt="agronimics_logo" srcset="">
+  <img class="logo_mobile" src="images/logo_cut.png" alt="agronimics_logo" srcset="">
  </div>
 					 <!-- <a href="home"><img src="images/logo/Logo.png" class="logo" alt=""> -->
 						</a>
