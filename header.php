@@ -69,13 +69,13 @@
                     <div class="header-nav navbar-collapse collapse justify-content-start" id="navbarNavDropdown">
                         <ul class="nav navbar-nav" id="header">
 							<li class="active action">
-								<a href="home"  <?php if($active=='Home') echo "class='active'"; ?>>Home </a>
+								<a href="home"  >Home </a>
 								
 							</li>
 
-							<li class="action"><a href="services"  <?php if($active=='Services') echo "class='active'"; ?>>Services</a></li>
-							<li class="action"><a href="about-us" <?php if($active=='About Us') echo "class='active'"; ?> >About Us</a></li>
-							<li class="action"><a href="contact" <?php if($active=='Contact Us') echo "class='active'"; ?>>Contact Us</a></li>
+							<li class="action"><a href="services"  >Services</a></li>
+							<li class="action"><a href="about-us"  >About Us</a></li>
+							<li class="action"><a href="contact" >Contact Us</a></li>
 							
 							
 							<li class="action"><a href="blog">Blog</a>
