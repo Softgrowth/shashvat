@@ -35,6 +35,24 @@
     <link rel="stylesheet" type="text/css" href="css/accordian.css">
     <link class="skin" rel="stylesheet" type="text/css" href="css/skin/skin-1.css">
 
+    <script>
+        var acc = document.getElementsByClassName("accordion");
+        var i;
+
+        for (i = 0; i < acc.length; i++) {
+            acc[i].addEventListener("click", function () {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if (panel.style.display === "block") {
+                    panel.style.display = "none";
+                } else {
+                    panel.style.display = "block";
+                }
+            });
+        }
+    </script>
+
+
 </head>
 
 <body id="bg">
@@ -141,9 +159,12 @@
                                     </div>
                                 </div>
 
+
+                                
+
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect2" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect2" id="collapse6id"  indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0"> जमीन </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
@@ -152,7 +173,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect2" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect2" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -181,7 +202,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect3" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect3" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0"> पुर्व मशागत </h4>
                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
@@ -190,7 +211,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect3" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect3" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
 
@@ -214,7 +235,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect4" id="collapse5id" indipendente="false" app-collapse-header-btn>
+                                        aria-controls="sect4" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0"> पेरणीची वेळ
                                         </h4>
@@ -224,7 +245,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect4" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect4" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -250,7 +271,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect5" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             विदर्भाकरीता तूरीचे
@@ -262,7 +283,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect5" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive  border-left border-dark m-0">
@@ -586,7 +607,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect6" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect6" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             बीज
@@ -598,7 +619,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect6" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect6" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -639,7 +660,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect7" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect7" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             खते
@@ -650,7 +671,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect7" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect7" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -708,7 +729,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect8" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect8" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             आंतरमशागत
@@ -719,7 +740,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect8" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect8" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -780,7 +801,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect9" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect9" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             पाणी
@@ -792,7 +813,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect9" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect9" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -905,7 +926,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect10" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect10" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             आंतरपिक
@@ -918,7 +939,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect10" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect10" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -1033,7 +1054,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect11" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect11" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             काढणी,
@@ -1047,7 +1068,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect11" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect11" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -1110,7 +1131,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect12" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect12" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             तूर
@@ -1126,7 +1147,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect12" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect12" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive  border-left border-dark m-0">
@@ -1996,7 +2017,7 @@
 
                                 <div class="app-collapse" app-collapse>
                                     <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect13" id="collapse5id" app-collapse-header-btn>
+                                        aria-controls="sect13" id="collapse6id" indipendente="false" app-collapse-header-btn>
                                         <span class="collapse-title">
                                         <h4 class="text-light p-1 mb-0">
                                                             तूर
@@ -2011,7 +2032,7 @@
                                             </svg>
                                         </span>
                                     </button>
-                                    <div id="sect13" role="region" aria-labelledby="collapse5id"
+                                    <div id="sect13" role="region" aria-labelledby="collapse6id"
                                         class="collapse-panel  ">
                                         <div class="collapse-panel-inner-wrapper content-text">
                                             <table class="table-responsive border-left border-dark m-0">
@@ -2185,42 +2206,24 @@
 									<a href="javascript:void(0);">Resturent </a> 
 								</div>
                             </div> -->
-                            <div class="dez-divider bg-gray-dark op4">
-                                <i class="icon-dot c-square"></i>
-                            </div>
+                            <div class="dez-divider bg-gray-dark op4"><i class="icon-dot c-square"></i></div>
                             <div class="share-details-btn">
                                 <ul>
                                     <li>
-                                        <h5 class="m-a0">
-                                            Share
-                                            Post
-                                        </h5>
+                                        <h5 class="m-a0">Share Post</h5>
                                     </li>
                                     <li><a href="javascript:void(0);" class="site-button facebook button-sm"><i
-                                                class="fa fa-facebook"></i>
-                                            Facebook</a>
-                                    </li>
+                                                class="fa fa-facebook"></i> Facebook</a></li>
                                     <li><a href="javascript:void(0);" class="site-button google-plus button-sm"><i
-                                                class="fa fa-google-plus"></i>
-                                            Google
-                                            Plus</a>
-                                    </li>
+                                                class="fa fa-google-plus"></i> Google Plus</a></li>
                                     <li><a href="javascript:void(0);" class="site-button linkedin button-sm"><i
-                                                class="fa fa-linkedin"></i>
-                                            Linkedin</a>
-                                    </li>
+                                                class="fa fa-linkedin"></i> Linkedin</a></li>
                                     <li><a href="javascript:void(0);" class="site-button instagram button-sm"><i
-                                                class="fa fa-instagram"></i>
-                                            Instagram</a>
-                                    </li>
+                                                class="fa fa-instagram"></i> Instagram</a></li>
                                     <li><a href="javascript:void(0);" class="site-button twitter button-sm"><i
-                                                class="fa fa-twitter"></i>
-                                            Twitter</a>
-                                    </li>
+                                                class="fa fa-twitter"></i> Twitter</a></li>
                                     <li><a href="javascript:void(0);" class="site-button whatsapp button-sm"><i
-                                                class="fa fa-whatsapp"></i>
-                                            Whatsapp</a>
-                                    </li>
+                                                class="fa fa-whatsapp"></i> Whatsapp</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -2525,7 +2528,7 @@
 
                 if (!isIndipendente && collapse !== btnElement) {
                     collapse.setAttribute('aria-expanded', false);
-                    contentEl.classList.remove(' ');
+                    contentEl.classList.remove('app-collapse-expanded');
                 }
             })
         }
@@ -2545,10 +2548,10 @@
             let open = btnElement.getAttribute('aria-expanded') === 'true';
             if (open) {
                 btnElement.setAttribute('aria-expanded', `${!open}`);
-                contentEl.classList.remove(' ');
+                contentEl.classList.remove('app-collapse-expanded');
             } else {
                 btnElement.setAttribute('aria-expanded', `${!open}`);
-                contentEl.classList.add(' ');
+                contentEl.classList.add('app-collapse-expanded');
             }
 
         }
