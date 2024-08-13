@@ -44,7 +44,9 @@
  </head>
  
  
- 
+ <div>
+  <img src="images/agronimics_logo.jpeg" alt="agronimics_logo" srcset="">
+ </div>
 <header class="site-header mo-left header fullwidth">
 		<!-- main header -->
         <div class="sticky-header main-bar-wraper navbar-expand-lg">
