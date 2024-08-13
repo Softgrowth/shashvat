@@ -17,7 +17,7 @@
 	<!--<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />-->
 	
 	<!-- PAGE TITLE HERE -->
-	<title>      तूर पिकाचे सुधारीत लागवड तंत्रज्ञान     </title>
+	<title>      तूर पिकाचे सुधारीत लागवड    </title> <!-- तंत्रज्ञान -->
 	
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
