@@ -89,7 +89,20 @@
                             </div>
                             <div class="dez-post-media  m-t20 d-flex justify-content-center" > <a href="#"><img src="images/blog/picture16.jpg" alt="Picture16.jpg" style="width:500px;"></a> </div>
                             <div class="dez-post-text">
-                            
+                            <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
+                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon text-light">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel app-collapse-expanded">
+                                        <div class="collapse-panel-inner-wrapper content-text">
                               <table class="table-responsive border-left border-dark">
                             <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  </h4>  </th> 
                             <tr class="">
@@ -102,7 +115,9 @@
                             
 </tr>
                             </table>
-
+                            </div>
+                                    </div>
+                                </div>
                             <table>
                             <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> जमीन </h4></th> 
                             <tr class="">
