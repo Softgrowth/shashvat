@@ -21,6 +21,7 @@
      @media (max-width: 992px) {
       .mobile_logo{
       display: block;
+      background:transparent;
      }
 
      .desktop_logo{
