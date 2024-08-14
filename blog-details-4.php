@@ -88,22 +88,8 @@
                                 <h3 class="post-title m-t0 text-center"><a href="blog-details.html"><b>  तूर पिकाचे सुधारीत लागवड तंत्रज्ञान    </b></a></h3>
                             </div>
                             <div class="dez-post-media  m-t20 d-flex justify-content-center" > <a href="#"><img src="images/blog/picture16.jpg" alt="Picture16.jpg" style="width:500px;"></a> </div>
-                            <div class="dez-post-text">
-                            <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
-                                        aria-controls="sect5" id="collapse5id" app-collapse-header-btn>
-                                        <span class="collapse-title">
-                                        तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  
-                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
-                                                class="collapse-icon text-light">
-                                                <path class="icon-path-line" />
-                                            </svg>
-                                        </span>
-                                    </button>
-                                    <div id="sect5" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
-                                        <div class="collapse-panel-inner-wrapper content-text">
-                              <table class="table-responsive border-left border-dark">
+        
+                            <table class="table-responsive border-left border-dark">
                             <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  </h4>  </th> 
                             <tr class="">
                                 <td class="col-md-12 text-dark border border-dark border-top-0"> 
@@ -115,9 +101,7 @@
                             
 </tr>
                             </table>
-                            </div>
-                                    </div>
-                                </div>
+
                             <table>
                             <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> जमीन </h4></th> 
                             <tr class="">
@@ -981,6 +965,51 @@
     <!-- Footer END -->
     <!-- scroll top button -->
     <button class="scroltop fa fa-chevron-up" ></button>
+
+    <!-- accordian  -->
+    <script>
+        //app-collapse
+
+        const collapses = document.querySelectorAll("[app-collapse-header-btn]");
+
+        const handleInitCollapse = (btnElement, parentEle) => {
+            const collapses = parentEle.querySelectorAll("[app-collapse-header-btn]");
+            collapses.forEach(collapse => {
+                const isIndipendente = collapse.getAttribute('indipendente') === 'true';
+                const controlsId = collapse.getAttribute('aria-controls');
+                const contentEl = document.getElementById(controlsId);
+
+                if (!isIndipendente && collapse !== btnElement) {
+                    collapse.setAttribute('aria-expanded', false);
+                    contentEl.classList.remove('app-collapse-expanded');
+                }
+            })
+        }
+
+        const handleExpandToggle = (event) => {
+            // console.log("handle Expand Toggle test log");
+            const btnElement = event.currentTarget;
+            const controlsId = btnElement.getAttribute('aria-controls');
+            const contentEl = document.getElementById(controlsId);
+            const parentEle = btnElement.closest("[app-accordian]");
+            const indipendente = btnElement.getAttribute('indipendente') === 'true';
+
+            if (!indipendente && parentEle) {
+                handleInitCollapse(btnElement, parentEle);
+            }
+
+            let open = btnElement.getAttribute('aria-expanded') === 'true';
+            if (open) {
+                btnElement.setAttribute('aria-expanded', `${!open}`);
+                contentEl.classList.remove('app-collapse-expanded');
+            } else {
+                btnElement.setAttribute('aria-expanded', `${!open}`);
+                contentEl.classList.add('app-collapse-expanded');
+            }
+
+        }
+        collapses.forEach(collapse => collapse.addEventListener('click', handleExpandToggle));
+    </script>
 </div>
 <!-- JAVASCRIPT FILES ========================================= -->
 <script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
