@@ -57,10 +57,7 @@
     filter: drop-shadow(0 -1mm 2mm rgb(0, 0, 0));
 }
 
-.whats-app:hover
-{
 
-}
 .my-float {
     margin-top: 16px;
 }
