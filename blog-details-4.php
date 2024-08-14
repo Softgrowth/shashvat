@@ -112,52 +112,324 @@
                             <div class="dez-post-media  m-t20 d-flex justify-content-center"> <a href="#"><img
                                         src="images/blog/picture16.jpg" alt="Picture16.jpg" style="width:500px;"></a>
                             </div>
-                            <div class="dez-post-text">
-                                <div class="app-collapse" app-collapse>
-                                    <button class="collapse-header-button" aria-expanded="false" class="collapse-trigger"
-                                        aria-controls="sect1" id="collapse5id" app-collapse-header-btn>
-                                        <span class="collapse-title">
-                                           
-                                            <h4 class="text-light p-1 mb-0">  तूर पिकाचे सुधारीत लागवड तंत्रज्ञान </h4>
-                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
-                                                class="collapse-icon text-light">
-                                                <path class="icon-path-line" />
-                                            </svg>
-                                        </span>
-                                    </button>
-                                    <div id="sect1" role="region" aria-labelledby="collapse5id"
-                                        class="collapse-panel app-collapse-expanded">
-                                        <div class="collapse-panel-inner-wrapper content-text">
-                                            <table class="table-responsive border-left border-dark m-0">
-                                                <tr class="">
-                                                    <td class="col-md-12 text-dark border border-dark border-top-0">
-                                                        जगात कडधान्याचे सर्वात जास्त उत्पादन, वापर आणि आयात भारतातच
-                                                        होते. कडधान्यामध्ये तूर हे पिक सर्वात महत्वाचे असुन भारतीयांच्या
-                                                        आहारात तूरडाळीस फार महत्व आहे. या पिकाच्या मुळावरील ग्रंथीतील
-                                                        रायझोबियम जिवाणु हवेतील नत्र शोषुन घेते त्यामुळे या पिकाची
-                                                        नत्राची गरज ब-याचशा प्रमाणात परस्पर भागविली जाते. तूर पिकापासुन
-                                                        जास्तीत-जास्त उत्पादन घ्यावयाचे असेल तर प्रामुख्याने योग्य
-                                                        जमिनीची निवड, अधिक उत्पादन देण्या-या वाणांचा वापर, रोपांची योग्य
-                                                        हेक्टरी संख्या, रासायनिक खतांचा संतुलित वापर, आंतरमशागत,
-                                                        पिकसंरक्षणाचे नियोजन, योग्य वेळी पेरणी या बाबी महत्वाच्या आहेत.
-                                                        <br>
-                                                        सध्या विदर्भात लागवडीखालील बहुतेक जाती मध्यम ते उशिरा
-                                                        कालावधीच्या आहेत. महाराष्ट्र राज्यात सुमारे ९० टक्क्यापेक्षा
-                                                        जास्त क्षेत्र या वाणांखाली येते. मागील काही वर्षाच्या
-                                                        संशोधनाव्दारे हळव्या तसेच गरव्या सुधारित वाणांचा विकास झाला आहे.
-                                                        लागवडीकरिता तुरीच्या हळव्या किंवा गरव्या वाणांची निवड करताना
-                                                        प्रामुख्याने जमिनीची प्रत (पोत), पर्जन्यमान, पीक पध्दती (आंतर,
-                                                        सलग, दुबार) या यार्वीचा विचार करता सर्वसाधारणपणे खालील प्रमाणे
-                                                        वर्गवारी करता येईल.
+                            <div class="dez-post-media  m-t20 d-flex justify-content-center" > <a href="#"><img src="images/blog/picture16.jpg" alt="Picture16.jpg" style="width:500px;"></a> </div>
+        
+                            <table class="table-responsive border-left border-dark">
+                            <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> तूर पिकाचे सुधारीत लागवड तंत्रज्ञान  </h4>  </th> 
+                            <tr class="">
+                                <td class="col-md-12 text-dark border border-dark border-top-0"> 
+                                जगात कडधान्याचे सर्वात जास्त उत्पादन, वापर आणि आयात भारतातच होते. कडधान्यामध्ये तूर हे पिक सर्वात महत्वाचे असुन भारतीयांच्या आहारात तूरडाळीस फार महत्व आहे. या पिकाच्या मुळावरील ग्रंथीतील रायझोबियम जिवाणु हवेतील नत्र शोषुन घेते त्यामुळे या पिकाची नत्राची गरज ब-याचशा प्रमाणात परस्पर भागविली जाते. तूर पिकापासुन जास्तीत-जास्त उत्पादन घ्यावयाचे असेल तर प्रामुख्याने योग्य जमिनीची निवड, अधिक उत्पादन देण्या-या वाणांचा वापर, रोपांची योग्य हेक्टरी संख्या, रासायनिक खतांचा संतुलित वापर, आंतरमशागत, पिकसंरक्षणाचे नियोजन, योग्य वेळी पेरणी या बाबी महत्वाच्या आहेत. <br>
+सध्या विदर्भात लागवडीखालील बहुतेक जाती मध्यम ते उशिरा कालावधीच्या आहेत. महाराष्ट्र राज्यात सुमारे ९० टक्क्यापेक्षा जास्त क्षेत्र या वाणांखाली येते. मागील काही वर्षाच्या संशोधनाव्दारे हळव्या तसेच गरव्या सुधारित वाणांचा विकास झाला आहे. लागवडीकरिता तुरीच्या हळव्या किंवा गरव्या वाणांची निवड करताना प्रामुख्याने जमिनीची प्रत (पोत), पर्जन्यमान, पीक पध्दती (आंतर, सलग, दुबार) या यार्वीचा विचार करता सर्वसाधारणपणे खालील प्रमाणे वर्गवारी करता येईल.
 
-                                                    </td>
-                                                </tr>
+</td>
+</tr>
+                            
+</tr>
+                            </table>
 
-                                                </tr>
-                                            </table>
-                                        </div>
-                                    </div>
-                                </div>
+                            <table>
+                            <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> जमीन </h4></th> 
+                            <tr class="">
+                                <td class="col-md-12 text-dark border border-dark border-top-0"> 
+                                   
+                                तुरीचे पिक मध्यम ते भारी जमीनीत (४५ ते ६० सेमी) खोल,पाण्याचा उत्तम निचरा होणारी जमिन तूर पिकास योग्य असते. चोपण, पाणथळ क्षारयुक्त जमीनीत तूर पिक चांगले येत नाही तसेच आम्लयुक्त जमीनीत मुळावरील रायझोबियम जिवाणूंच्या ग्रंथीची वाढ योग्य होत नसल्याने रोपे पिवळी पडून उत्पादनात घट येते. जमीनीचा सामु हा ६.५ ते ७.५ च्या दरम्यान असावा. हवामान तूर पिकास २१ ते २५ से.ग्रे. तापमान चांगले मानवते. वार्षिक सरासरी ७५० ते १००० मि.मि. पर्जन्यमान पडणा-या विभागात हे पिक चांगले येते. फुले येण्याच्या आणि शेंगा भरण्याच्या कालावधीत कोरडे हवामान या पिकास अधिक उपयुक्त असते. स्वच्छ सुर्यप्रकाश आणि पुरेसा ओलावा या पिकास आवश्यक असते.
+</td>
+</tr>
+                           
+</table>
+
+<table>
+                            <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> पुर्व मशागत </h4></th> 
+                            <tr class="">
+                                <td class="col-md-12 text-dark border border-dark border-top-0"> 
+                                तूर या पिकाची मुळे जमिनीत खोल जात असल्यामुळे पहिली नांगरटी २५ ते ३० सें.मी. खोल नांगरणी करणे आवश्यक असते. वखरांच्या पाळ्यानी जमिन भुसभुसीत करावी. शेवटच्या वखराच्या पाळीच्या अगोदर हेक्टरी ०५ टन चांगले कुजलेले कंपोस्ट खत-शेणखत जमिनीत चांगले मिसळावे.
+</td>
+</tr>
+                              </table>
+<table>           <th class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center"><h4 class="text-light p-1 mb-0"> पेरणीची वेळ </h4></th> 
+                            <tr class="">
+                                <td class="col-md-12 text-dark border border-dark border-top-0"> 
+                                या पिकाची पेरणी योग्य पाऊस झाल्यावर आणि जमिनीत वाफसा येताच म्हणजेच जुनचा दुसरा आठवडा ते जुलैचा पहीला आठवडा या दरम्यान पेरणी पुर्ण करावी.
+बियाणे प्रमाण आणि पेरणी अंतर : पिकाचे चांगले उत्पादन घेण्यासाठी रोपांची संख्या योग्य प्रमाणात असणे अत्यंत महत्वाचे असते.
+
+                          
+</td>
+</tr>
+                         </table>
+                   <table class="table-responsive  border-left border-dark">
+                            <tr>
+                              <th class="bg-secondary  text-light text-center mt-5  mb-0 " colspan="6"><h4 class="text-light p-1 mb-0"> विदर्भाकरीता तूरीचे लागवडीसाठी प्रसारीत वाण </h4></th> 
+                            </tr>
+                            <tr class="">
+                                <th class=" text-dark border border-dark border-top-0"> 
+                                वाण
+                                </th>                              
+                                <th class="col-md-2 col-sm-2 text-dark border border-dark border-top-0"> 
+                                परिपक्व होण्याचा कालावधी 
+                                </th>                              
+                                <th class="col-md-2 col-sm-2 text-dark border border-dark border-top-0"> 
+                                लागवड अंतर दोन ओळीतील अंतर (सेमी) x दोन झाडांतील अंतर
+                                </th>                              
+                                <th class="col-md-2 col-sm-2 text-dark border border-dark border-top-0"> 
+                                बियाणे दर 
+                                किलो/हेक्टरी 
+
+                                </th>                              
+                                <th class="col-md-2 col-sm-2 text-dark border border-dark border-top-0"> 
+                                हेक्टरी उत्पादन
+                                </th>                              
+                                <th class="col-md-2 col-sm-2 text-dark border border-dark border-top-0"> 
+                                वैशिष्टे 
+                                </th>                              
+                            </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                आयसीपीएल ८७
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२५-१३५
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ४० x २० 
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ४०-४५
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ९-१०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                दाणे टपोर, पहिल्या बहाराच्या शेंगा तोडून दुसरा बहार घेता येतो. दुबार पिकास योग्य.
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                एकेटी ८८११
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १३०-१४०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ६० x २० 
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १५-२०  
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १०-११
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                अधिक उत्पादन देणारा, लवकर तयार होणारा.
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                पीकेव्ही तारा
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १७८-१८०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ९० x ३०  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १९-२०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                अधिक उत्पादन देणारा, मर रोगास प्रतिबंधक व वांझ रोगास साधारण प्रतिकारक्षम, फटका डाळीचे प्रमाण इतर वाणांपेक्षा ५ ते १० टक्के अधिक.
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                बीएसएमआर ८५३
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १७८-१८०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ९० x ३०  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १५-१६
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                अधिक उत्पादन देणारा, पांढऱ्या दाण्याचा मर व वांझ रोगास प्रतिबंधक
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                बीएसएमआर ७३६
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १८०-१९०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ९० x २०  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १५-१६
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                अधिक उत्पादन देणारा, हिरव्या शेंगाचा,
+लाल दाण्याचा, मर व वांझ रोगास प्रतिबंधक.
+
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                आयसीपीएल ८७११९ (आशा)
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १८०-२००
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ९० x २०  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१४
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                मर व वांझ रोग प्रतिबंधक, भारी जमिनीस योग्य.
+
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                बीडीएन ७१६
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १६५-१७०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ६० x २०  <br>
+९० x ३०  
+  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १८-२०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                मर व वांझ रोगास प्रतिबंधक, हिरव्या शेंगांचा, पर्जन्यावर अवलंबून असणाऱ्या भागात ठराविक वेळेत पेरणीस योग्य
+
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                बीडीएन ७०८
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १६०-१६५
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ६० x २०  <br>
+९० x ३०  
+  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १६-१८
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                चमकदार लाल रंगाचे दाणे, गर्द लाल शेंगा, मर व वांझ रोगास प्रतिबंधक तसेच शेंगा पोखरणाऱ्या किडींना सहनक्षम, कमी पर्जन्यमानाच्या (५५०- ६५० मि.मी.) भागासाठी योग्य.
+
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                विपुला
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ११५०-१७०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ६० x २०  <br>
+९० x ३०  
+  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १६
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                सलग तसेच आंतरपिक पध्दतीसाठी, भरघोस उत्पादन देणारा वाण, मर तसेच वांझ रोगास मध्यम प्रतिकारक.
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                फुले राजेश्वरी
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १४०-१५०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ६० x २०  <br>
+९० x ३०  
+  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                २२
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                मर व वांझ रोगास प्रतिकारक्षम, लवकर पक्वता, तांबड्या रंगाचे टपोरे दाणे.
+                                </td>                              
+                                </tr>
+                            <tr class="">
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                पिडीकेव्ही आश्लेशा
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १७४-१७८
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                ६० x २०  <br>
+९० x ३०  
+  
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १२-१५ 
+
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                १९-२०
+                                </td>                              
+                                <td class="col-md-2 text-dark border border-dark border-top-0"> 
+                                मध्यम कालावधीचा, अधिक उत्पादन देणारा लाल
+रंगाचा वाण, मर, वांझ, फायटोप्थोरा करपा, मॅक्रोफोमिना करपा, पानांवरील सकोस्पोरा ठिपके या सर्व रोगास मध्यम प्रतिकारक्षम, मध्य भारतात खरीप लागवडीस उपयुक्त.
+
+                                </td>                              
+                                </tr>
 
 
                                 
@@ -2512,8 +2784,14 @@
 ?>
     <!-- Footer END -->
     <!-- scroll top button -->
+<<<<<<< HEAD
+    <button class="scroltop fa fa-chevron-up" ></button>
+
+    <!-- accordian  -->
+=======
     <button class="scroltop fa fa-chevron-up"></button>
 
+>>>>>>> 1bcbfedf09653e1787fec0b2516acc743fd48b02
     <script>
         //app-collapse
 
@@ -2557,6 +2835,25 @@
         }
         collapses.forEach(collapse => collapse.addEventListener('click', handleExpandToggle));
     </script>
+<<<<<<< HEAD
+</div>
+<!-- JAVASCRIPT FILES ========================================= -->
+<script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
+<script src="plugins/bootstrap/js/popper.min.js"></script><!-- BOOTSTRAP.MIN JS -->
+<script src="plugins/bootstrap/js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
+<script src="plugins/bootstrap-select/bootstrap-select.min.js"></script><!-- FORM JS -->
+<script src="plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
+<script src="plugins/magnific-popup/magnific-popup.js"></script><!-- MAGNIFIC POPUP JS -->
+<script src="plugins/counter/waypoints-min.js"></script><!-- WAYPOINTS JS -->
+<script src="plugins/counter/counterup.min.js"></script><!-- COUNTERUP JS -->
+<script src="plugins/imagesloaded/imagesloaded.js"></script><!-- IMAGESLOADED -->
+<script src="plugins/masonry/masonry-3.1.4.js"></script><!-- MASONRY -->
+<script src="plugins/masonry/masonry.filter.js"></script><!-- MASONRY -->
+<script src="plugins/owl-carousel/owl.carousel.js"></script><!-- OWL SLIDER -->
+<script src="js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
+<script src="js/dz.carousel.js"></script><!-- SORTCODE FUCTIONS  -->
+<script src="js/dz.ajax.js"></script><!-- CONTACT JS  -->
+=======
     </div>
     <!-- JAVASCRIPT FILES ========================================= -->
     <script src="js/jquery.min.js"></script>
@@ -2589,6 +2886,7 @@
     <!-- SORTCODE FUCTIONS  -->
     <script src="js/dz.ajax.js"></script>
     <!-- CONTACT JS  -->
+>>>>>>> 1bcbfedf09653e1787fec0b2516acc743fd48b02
 </body>
 
 </html>
