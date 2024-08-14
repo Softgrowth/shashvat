@@ -292,7 +292,7 @@
     <div class="carousel-item active " >
       <!--<img src="images/banner/main-slider-1-2.jpg" class="d-block w-100" alt="...">-->
       <video class="img-fluid" autoplay loop>
-	  <source src="images/agriculture.mp4" type="video/mp4">
+	  <source src="images/agriculture(1).mp4" type="video/mp4">
 	  </video>
 	  <div class="carousel-caption d-none d-md-block  car_caption">
 	   <!-- <h1 class="text-light">Creating radical change in agriculture</h1> -->
@@ -317,14 +317,14 @@
 
    <!-- </div>-->
   </div>
-  <button class="carousel-control-prev" type="button" data-target="#carouselExampleFade" data-slide="prev">
+  <!-- <button class="carousel-control-prev" type="button" data-target="#carouselExampleFade" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
   </button>
   <button class="carousel-control-next" type="button" data-target="#carouselExampleFade" data-slide="next">
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </button>
+  </button> -->
 </div>
 		<!-- carousel -->
 		<!-- Section Banner END -->
@@ -619,10 +619,11 @@
 			</div>
 				<!-- Call To Action -->
 			<div class="section-full content-inner-2 call-to-action text-white text-center bg-img-fix" style="background-image: url(images/banner/main-slider-1-2.jpg);">
-				<div class="container" style="height:100px;">
+				<div class="container py-3" style=" background: rgba(255,255,255,0.6); margin-bottom: 50px;">
 					<div class="row">
 						<div class="col-lg-12">
-							<h2 class="m-b10"></h2>
+							<h2 class="m-b10 text-dark">Have A Question ?</h2>
+                              <button type="button" class="btn btn-dark btn-lg btn-"><i class="fa-solid fa-phone pr-2"></i>Call Us Now</button>
 							
 						</div>
 					</div>
@@ -682,9 +683,14 @@
 	require_once "footer.php";
 ?>
     <!-- Footer END -->
+
+
     <!-- scroll top button -->
     <button class="scroltop fa fa-arrow-up" ></button>
 </div>
+
+<!-- font awsome-->
+<script src="https://kit.fontawesome.com/a34a653280.js" crossorigin="anonymous"></script>
 <!-- JAVASCRIPT FILES ========================================= -->
 <script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
 <script src="plugins/bootstrap/js/popper.min.js"></script><!-- BOOTSTRAP.MIN JS -->
