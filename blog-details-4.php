@@ -2428,14 +2428,9 @@
 ?>
     <!-- Footer END -->
     <!-- scroll top button -->
-<<<<<<< HEAD
     <button class="scroltop fa fa-chevron-up" ></button>
 
     <!-- accordian  -->
-=======
-    <button class="scroltop fa fa-chevron-up"></button>
-
->>>>>>> 1bcbfedf09653e1787fec0b2516acc743fd48b02
     <script>
         //app-collapse
 
