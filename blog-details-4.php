@@ -87,7 +87,7 @@
             <div class="container">
                 <div class="row">
                     <!-- Left part start -->
-                    <div class="col-lg-12 col-md-12 m-b10">
+                    <div class="col-lg-8 col-md-7 m-b10">
                         <!-- blog start -->
                         <div class="blog-post blog-single blog-style-1">
                             <!-- <div class="dez-post-meta">
@@ -127,7 +127,7 @@
                                         class="collapse-panel ">
                                         <div class="collapse-panel-inner-wrapper content-text">
         
-                            <table class="table-responsive border-left border-dark">
+                            <table class="table-responsive border-left border-dark m-0">
                            
                             <tr class="">
                                 <td class="col-md-12 text-dark border border-dark border-top-0"> 
@@ -2242,138 +2242,64 @@
                                         </form>
                                     </div> -->
                         <!-- Form -->
-                    </div>
+                    <!-- </div>
                 </div>
-            </div>
+            </div> -->
             <!-- blog END -->
-        </div>
+        <!-- </div> -->
         <!-- Left part END -->
         <!-- Side bar start -->
-        <!-- <div class="col-lg-4 col-md-5 sticky-top">
+        <div class="col-lg-4 col-md-5 sticky-top" style="top:160px !important;">
                         <aside  class="side-bar">
-                            <div class="widget">
-                                <h6 class="widget-title style-1">Search</h6>
-                                <div class="search-bx style-1">
-                                    <form role="search" method="post">
-                                        <div class="input-group">
-                                            <input name="text" class="form-control" placeholder="Enter your keywords..." type="text">
-                                            <span class="input-group-btn">
-												<button type="submit" class="fa fa-search text-primary"></button>
-                                            </span> 
-										</div>
-                                    </form>
-                                </div>
-                            </div>
+                            
                             <div class="widget recent-posts-entry">
                                 <h6 class="widget-title style-1">Recent Posts</h6>
                                 <div class="widget-post-bx">
                                     <div class="widget-post clearfix">
-                                        <div class="dez-post-media"> <img src="images/blog/recent-blog/pic1.jpg" width="200" height="143" alt=""> </div>
+                                        <div class="dez-post-media"> <img src="images/blog/cotton_logo.jpeg" width="200" height="143" alt=""> </div>
                                         <div class="dez-post-info">
                                             <div class="dez-post-header">
-                                                <h6 class="post-title"><a href="blog-details.html">11 Tips to Help You Get New Clients Through Cold Calling</a></h6>
+                                                <h6 class="post-title"><a href="blog-details">कापूस लागवड तंत्रज्ञान</a></h6>
                                             </div>
-											<div class="dez-post-meta">
-												<ul class="d-flex align-items-center">
-													<li class="post-date"><i class="fa fa-calendar"></i>Sep 18, 2020</li>
-													<li class="post-comment"><a href="#"><i class="fa fa-comments-o"></i>5k</a> </li>
-												</ul>
-											</div>
+											
                                         </div>
                                     </div>
                                     <div class="widget-post clearfix">
-                                        <div class="dez-post-media"> <img src="images/blog/recent-blog/pic2.jpg" width="200" height="160" alt=""> </div>
+                                        <div class="dez-post-media"> <img src="images/blog/Picture1.jpg" width="200" height="160" alt=""> </div>
                                         <div class="dez-post-info">
                                             <div class="dez-post-header">
-                                                <h6 class="post-title"><a href="blog-details.html">Do you have a job that the average person doesn’t even know exists?</a></h6>
+                                                <h6 class="post-title"><a href="blog-details-1">धान लागवड तंत्रज्ञान </a></h6>
                                             </div>
-                                            <div class="dez-post-meta">
-												<ul class="d-flex align-items-center">
-													<li class="post-date"><i class="fa fa-calendar"></i>Sep 18, 2020</li>
-													<li class="post-comment"><a href="#"><i class="fa fa-comments-o"></i>5k</a> </li>
-												</ul>
-											</div>
+                                           
                                         </div>
                                     </div>
                                     <div class="widget-post clearfix">
-                                        <div class="dez-post-media"> <img src="images/blog/recent-blog/pic3.jpg" width="200" height="160" alt=""> </div>
+                                        <div class="dez-post-media"> <img src="images/blog/Picture3.png" width="200" height="160" alt=""> </div>
                                         <div class="dez-post-info">
                                             <div class="dez-post-header">
-                                                <h6 class="post-title"><a href="blog-details.html">Using Banner Stands To Increase Trade Show Traffic</a></h6>
+                                                <h6 class="post-title"><a href="blog-details-2">सोयाबीन लागवड तंत्रज्ञान</a></h6>
                                             </div>
-                                            <div class="dez-post-meta">
-												<ul class="d-flex align-items-center">
-													<li class="post-date"><i class="fa fa-calendar"></i>Sep 18, 2020</li>
-													<li class="post-comment"><a href="#"><i class="fa fa-comments-o"></i>5k</a> </li>
-												</ul>
-											</div>
+                                           
+                                        </div>
+                                    </div>
+                                    <div class="widget-post clearfix">
+                                        <div class="dez-post-media"> <img src="images/blog/Picture4.jpg" width="200" height="160" alt=""> </div>
+                                        <div class="dez-post-info">
+                                            <div class="dez-post-header">
+                                                <h6 class="post-title"><a href="blog-details-3"> मिरची लागवड तंत्रज्ञान</a></h6>
+                                            </div>
+                                           
                                         </div>
                                     </div>
                                 </div>
                             </div>
 							
-							<div class="widget widget_gallery gallery-grid-3">
-                                <h6 class="widget-title style-1">Our services</h6>
-                                <ul>
-                                    <li><div class="dez-post-thum">
-										<a href="javascript:void(0);" class="dez-img-overlay1 dez-img-effect zoom-slow">
-											<img src="images/gallery/pic2.jpg" alt="">
-										</a></div>
-									</li>
-                                    <li><div class="dez-post-thum">
-										<a href="javascript:void(0);" class="dez-img-overlay1 dez-img-effect zoom-slow">
-											<img src="images/gallery/pic1.jpg" alt="">
-										</a></div>
-									</li>
-                                    <li><div class="dez-post-thum">
-										<a href="javascript:void(0);" class="dez-img-overlay1 dez-img-effect zoom-slow">
-											<img src="images/gallery/pic5.jpg" alt="">
-										</a></div>
-									</li>
-                                    <li><div class="dez-post-thum">
-										<a href="javascript:void(0);" class="dez-img-overlay1 dez-img-effect zoom-slow">
-											<img src="images/gallery/pic7.jpg" alt="">
-										</a></div>
-									</li>
-                                    <li><div class="dez-post-thum">
-										<a href="javascript:void(0);" class="dez-img-overlay1 dez-img-effect zoom-slow">
-											<img src="images/gallery/pic8.jpg" alt="">
-										</a></div>
-									</li>
-                                    <li><div class="dez-post-thum">
-										<a href="javascript:void(0);" class="dez-img-overlay1 dez-img-effect zoom-slow">
-											<img src="images/gallery/pic9.jpg" alt="">
-										</a></div>
-									</li>
-                                </ul>
-                            </div>
 							
-							<div class="widget widget_archive">
-                                <h6 class="widget-title style-1">Categories List</h6>
-                                <ul>
-                                    <li><a href="javascript:void(0);">aciform</a></li>
-                                    <li><a href="javascript:void(0);">championship</a></li>
-                                    <li><a href="javascript:void(0);">chastening</a></li>
-                                    <li><a href="javascript:void(0);">clerkship</a></li>
-                                    <li><a href="javascript:void(0);">disinclination</a></li>
-                                </ul>
-                            </div>
 							
-							<div class="widget widget-newslatter">
-                                <h6 class="widget-title style-1">Newsletter</h6>
-                                <div class="news-box">
-									<p>Enter your e-mail and subscribe to our newsletter.</p>
-                                    <form class="dzSubscribe" action="script/mailchamp.php" method="post">
-										<div class="dzSubscribeMsg"></div>
-                                        <div class="input-group">
-                                            <input name="dzEmail" required="required" type="email" class="form-control" placeholder="Your Email"/>
-											<button name="submit" value="Submit" type="submit" class="site-button btn-block">Subscribe Now</button>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
+						
+					
                         </aside>
-                    </div> -->
+                    </div>
         <!-- Side bar END -->
     </div>
     </div>
@@ -2425,6 +2351,7 @@
     <!-- Footer -->
     <?php 
 	require_once "header.php";
+	require_once "footer.php";
 ?>
     <!-- Footer END -->
     <!-- scroll top button -->
