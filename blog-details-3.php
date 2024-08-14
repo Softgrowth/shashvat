@@ -1939,7 +1939,7 @@
     <!-- scroll top button -->
     <button class="scroltop fa fa-chevron-up"></button>
     </div>
-
+<!-- accordian -->
     <script>
         //app-collapse
 
