@@ -58,7 +58,7 @@
 .blob:nth-child(5) {
   top: 190px;
   left: -820px;
-  background-color: #89d86f;
+  background-color: #ccaf85;;
   animation: wave 1.5s infinite alternate;
   animation-delay: 1.5s;
 }
@@ -77,8 +77,8 @@ color:black;
 
 #article {
   position: relative;
-  width: 90%;
-  height: 93%;
+  width: 95%;
+  height: 100%;
   flex-shrink: 0;
   flex-basis: 1;
   background-color: rgba(255, 255, 255, 0.2);

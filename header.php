@@ -54,7 +54,7 @@
     font-size: 30px;
     /* box-shadow: 2px 2px 3px #999; */
     z-index: 100;
-    filter: drop-shadow(0 -1mm 2mm rgb(0, 0, 0));
+    filter: drop-shadow(0 -1mm 2mm rgb(189, 151, 72));
 }
 
 
