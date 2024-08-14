@@ -54,6 +54,12 @@
     font-size: 30px;
     /* box-shadow: 2px 2px 3px #999; */
     z-index: 100;
+    filter: drop-shadow(0 -1mm 2mm rgb(0, 0, 0));
+}
+
+.whats-app:hover
+{
+
 }
 .my-float {
     margin-top: 16px;
@@ -259,7 +265,7 @@
     </header>
 
     <div>
-    <a  class="whats-app"aria-label="Chat on WhatsApp" href="https://wa.me/8551882092" target="_blank">
+    <a  class="whats-app" aria-label="Chat on WhatsApp" href="https://wa.me/7666900966?text=I'm%20interested%20in%20your%20car%20for%20sale" target="_blank">
         <!-- <i class="fa fa-whatsapp my-float"></i> -->
         <img src="images/Whats-app.png" alt="Whats-app.png" style="width: 100%;">
     </a>
