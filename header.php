@@ -38,6 +38,27 @@
       display: none;
      }
 }
+
+
+/* Whatsapp */
+.whats-app {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 60px;
+    right: 15px;
+    /* background-color: #25d366; */
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    /* box-shadow: 2px 2px 3px #999; */
+    z-index: 100;
+}
+.my-float {
+    margin-top: 16px;
+}
+/* Whatsapp */
  </style>
  
  <script>
@@ -236,6 +257,14 @@
           </div>
         
     </header>
+
+    <div>
+    <a  class="whats-app" href="#" target="_blank">
+        <!-- <i class="fa fa-whatsapp my-float"></i> -->
+        <img src="images/Whats-app.png" alt="Whats-app.png" style="width: 100%;">
+    </a>
+
+ </div>
     
     <script>
 // Add active class to the current button (highlight it)

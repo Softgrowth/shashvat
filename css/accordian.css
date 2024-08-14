@@ -102,7 +102,7 @@ body {
 
 .icon-path-line {
     d: path('M4 78 78 7l74 71');
-    stroke: var(--title-color);
+    stroke: var( --bckground-color);
     stroke-linecap: round;
     stroke-width: 8px;
     transition: var(--transition-time);

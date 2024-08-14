@@ -31,6 +31,7 @@
 	<link rel="stylesheet" type="text/css" href="css/plugins.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/templete.css">
+    <link rel="stylesheet" type="text/css" href="css/accordian.css">
 	<link class="skin" rel="stylesheet" type="text/css" href="css/skin/skin-1.css">
 	
 </head>
@@ -90,29 +91,93 @@
                             </div>
                             <div class="dez-post-media  m-t20 d-flex justify-content-center"> <a href="#"><img src="images/blog/Picture1.jpg" alt="Picture1.jpg" style="width:500px;"></a> </div>
                             <div class="dez-post-text">
-                                 <table class="table-responsive table border-left border-dark">
-                               <tr> <th colspan="2" class="bg-secondary mb-0 text-light text-center">धान  लागवड</th></tr>
+
+                            <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="true" class="collapse-trigger"
+                                        aria-controls="sect1" id="collapse5id" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        धान  लागवड
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon text-light">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect1" role="region" aria-labelledby="collapse5id"
+                                        class="collapse-panel app-collapse-expanded">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
                                 <tr class="">
                                 <td class="col-md-8 text-dark border border-dark border-top-0 border-right-0" style="height:250px;">आपल्या देशातील सुमारे ६५ टक्के लोकांच्या दररोजच्या आहारात भाताचा समावेश होतो. मानवी शरीरास पोषक अशा बऱ्याच अन्नघटकांचा पुरवठा हा भातातून होत असतो. तसेच इतर पिकांच्या तुलनेत पशु-पक्ष्यांचे खाद्य व औद्योगिकदृष्ट्या देखील भाताचे अनेक उपयोग होतात. त्यामुळे भात हे बहुगुणी तृणधान्य पीक म्हणून ओळखले जाते. याशिवाय हलक्या, भारी, पाणथळ, खारवट अशा विविध प्रकारच्या जमिनीत यशस्वीपणे वाढणारे व उत्पन्न देणारे भात हे प्रमुख तृणधान्य पीक आहे. महाराष्ट्र राज्यातील लागवड करण्यात येणाऱ्या अन्नधान्य पिकांचा विचार करता ज्वारी-बाजरीनंतर
                                 भात पिकाचा क्रमांक लागतो. असे जरी असले तरी कोकण, विदर्भाचा नागपूर विभाग तसेच कोल्हापूर, पुणे, नाशिक,विभागाच्या सह्याद्रीलगतच्या भागातील लोकांचे भात हे प्रमुख अन्नधान्य पीक आहे. महाराष्ट्रात भात हे पीक “साळ” आणि “धान” या नावाने देखील ओळखले जाते. </td>
                                 <td class="col-md-4 text-dark border border-dark border-top-0 border-left-0" style="height:250px;"><img  style="height:235px;" src="images/blog/sack-309849_1280.png" alt="sack-309849_1280.png"></td>
 </tr>
 </table>
-<table class="table-responsive table border-left border-dark">
-                                <tr><th colspan="2" class="bg-secondary mb-0 text-light text-center">हवामान</th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect2" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                            हवामान
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect2" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
                                 <tr class="col-md-12 text-dark border border-dark border-top-0"><td>भात हे उष्ण कटीबंधातील पीक असून त्यास उष्ण व दमट हवामानाची गरज असते. पीक वाढीच्या कालावधीतील सरासरी तपमान २४ ते ३२ अंश से. ग्रे. पोषक असते. चांगले उत्पादन येण्यास हवेतील सरासरी आद्रता ६५ टक्के लागते. या पिकास सरासरी १००० मि.मी. पेक्षा जास्त पावसाची आवश्यकता असते. पुरेसा पाऊस व सिंचनाची सोय उपलब्ध झाल्यास हे पीक सर्व प्रकारच्या जमिनीत घेतले जाते.
 </td>
                             </tr>
                             </table>
-                            <table class=" table border-left border-dark">
-                               <tr><th colspan="2" class="bg-secondary mb-0 text-light text-center  justify-content-center">जमीन</th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect3" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        जमीन
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect3" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class=" table border-left border-dark m-0">
                                <tr class="">
                                 <td class="col-md-12 text-dark border border-dark border-top-0">पोयटा व चिकणमातीयुक्त पोयता त्याचप्रमाणे जमिनीचा सामू (पी. एच.) ५ ते ८ या दरम्यान असल्यास पिकापासून अधिक उत्पादन मिळते.
 </td></tr>
 </table>
-<table class="table-responsive table border-left border-dark">
-                              <tr> <th colspan="2" class="bg-secondary mb-0 text-light text-center  mt-5 justify-content-center">बियाण्याची निवड व बिजप्रक्रिया</th>
-                              </tr>                             
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect4" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        बियाण्याची निवड व बिजप्रक्रिया
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect4" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
+                                                        
                                 <tr class="">
                                 <td class="col-md-9 text-dark border border-dark border-top-0 border-right-0">अधिक उत्पादनासाठी योग्य सुधारित जातीचे प्रमाणित बियाणे वापरणे आवश्यक आहे, तसेच ते दर तीन वर्षांनी बदलाने आवश्यक आहे. प्रमाणित बियाणे उपलब्ध न झाल्यास बियाण्याची पेरणीपूर्व प्रक्रिया करणे अत्यंत जरुरीचे आहे. कारण अधिक उत्पादनासाठी निरोगी आणि वजनदार भाताचे बियाणे वापरावे. त्यासाठी ३०० ग्रॅम मीठ १० लिटर पाण्यात विरघळवून द्रावण तयार करावे. पेरणीपूर्वी बियाणे या द्रावणात ओतावे. नंतर द्रावण ढवळून स्थिर होऊ द्यावे. पोकळ व रोगाने हलके झालेले, तरंगणारे बियाणे काढून टाकावे. तळाशी राहिलेले वजनदार व निरोगी बियाणे बाहेर काढून ते २-३ वेळा स्वच्छ पाण्याने धुवावे व सावलीत 24 तास वाळवावे. नंतर 
                                 रोगप्रतिबंधक उपाय म्हणून १ टक्का पारायुक्त औषध उदा. थायरम १ किलो बियाण्यास २.५ ग्रॅम या प्रमाणात चोळावे.
@@ -121,8 +186,25 @@
 <td class="col-md-3 text-dark border border-dark border-top-0 border-left-0"> <a href="#"><img src="images/blog/wheat_3.jpeg" alt="Picture1.jpg"></a> </div>
 </td></tr>
 </table>
-<table class="table border-left border-dark">
-                               <tr><th colspan="2" class="bg-secondary mb-0 text-light text-center justify-content-center mt-5">बियाणे दर  </th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect5" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        बियाणे दर  
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect5" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table border-left border-dark m-0">
 
                                <tr class="">
                                 <td colspan="2" class="col-md-12 text-dark border border-dark border-top-0">प्रती हेक्टरी लागणारे बियाणे हे दाण्याची प्रत आणि लावणीच्या वेळी एक चौ. मी. मधील चुडांच्या संख्येवर अवलंबून आहे. प्रती हेक्टर क्षेत्राला लागणारे बियाणे पुढीलप्रमाणे-</td>
@@ -144,15 +226,48 @@
                                     <td class="col-md-6 text-dark border border-dark border-top-0">३० ते ४०</td>
 </tr>
 </table>
-<table class="table border-left border-dark">
-                                
-                                <th colspan="2" class="bg-secondary mb-0  mt-5 text-light text-center justify-content-center">बिजप्रक्रिया </th>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect6" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        बिजप्रक्रिया
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect6" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table border-left border-dark m-0">
                                   <tr class="">
                                      <td class="col-md-12 text-dark border border-dark border-top-0">पोयटा व चिकणमातीयुक्त पोयता त्याचप्रमाणे जमिनीचा सामू (पी. एच.) ५ ते ८ या दरम्यान असल्यास पिकापासून अधिक उत्पादन मिळते.</td>
 </td>
 </table>
-<table class="table-responsive table border-left border-dark">
-                                   <tr><th colspan="2"class="bg-secondary mb-0  mt-5 text-light text-center justify-content-center">पूर्वमशागत व भरखते </th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect7" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        पूर्वमशागत व भरखते 
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect7" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
                                   <tr class="">
                                  <td class="col-md-8 text-dark border border-dark border-top-0 border-right-0" style="height:200px;">हंगाम अखेर कापणी झाल्यावर जमीन नांगरून शेतातील सर्व धसकटे, गवत, झुडुपे  कापून जाळून
                                      टाकावीत. पूर्व मशागतीनंतर हेक्टरी २५ ते ३० गाड्या (१० टन) चांगले कुजलेले शेणखत किंवा कंपोस्ट खत घालावे.
@@ -163,8 +278,25 @@
                                  </td>
 </tr>
 </table>
-<table class="table-responsive table border-left border-dark">
-                                  <tr><th class="bg-secondary mb-0  mt-5 text-light text-center justify-content-center">रोपवाटिका व्यवस्थापन</th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect8" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        रोपवाटिका व्यवस्थापन
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect8" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
                                 <tr class="">
                             <td class="col-md-12 text-dark border border-dark border-top-0">
                             रोपवाटिकेत रोपे तयार करण्यासाठी जमीन, नांगरून, ढेकळे फोडून भुसभुशीत करावी. नंतर १२० से.मी. रुंद (४ फुट) व ८ ते १० से. मी. (८ ते १० बोटे) ऊंच आणि शेताचा आकार व उतारानुसार लांबी ठेवून गादी वाफे तयार करावेत. चंद्रपूर, भंडारा आणि गडचिरोली तसेच ज्या ठिकाणी हंगामामध्ये सुरुवातीस पाऊस कमी असतो अशा ठिकाणी गादी वाफ्याची उंची ३ ते ५ से. मी. ठेवली  तरी चालते. गादी वाफे करणे शक्य नसेल तर रोप तयार करण्यासाठी शेतातील उंचवट्याची जागा निवडावी व चारही बाजूंनी खोल चारी काढावी. यामुळे पाऊस जास्त झाला तरी पाण्याचा निचरा होण्यास मदत होईल व कोवळी रोपे मरण्याचे प्रमाण कमी राहील.     
@@ -201,21 +333,73 @@
                                 </td>
                                 </tr>
 </table>
-<table class="table-responsive table border-left border-dark">
-                               <tr> <th colspan="2" class="bg-secondary mb-0  mt-5 text-light text-center justify-content-center">रासायनिक खते </th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect9" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        रासायनिक खते
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect9" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
                                 <tr class="">
                                 <td class="col-md-12 text-dark border border-dark border-top-0">जमिनीची तपासणी करून योग्य प्रमाणात रासायनिक खताचा वापर केल्यास शेती किफायतशीर होते. सर्वसाधारणपणे १०० किलो नत्र, ५० किलो स्फुरद व ५० किलो पालाश प्रति हेक्टरी द्यावे. संपूर्ण स्फुरद व पालाश आणि नत्राची अर्धी मात्रा चिखलणीच्या वेळेस तर उरलेली नत्राची अर्धी मात्रा दोन समान हप्त्यात (फुटवे फुटण्याच्या वेळी आणि लोंबी येण्याच्या सुरूवातीस) विभागून द्यावी. कोरडवाहू धानाकरिता ६० किलो नत्र, ३० किलो स्फुरद व ३० किलो पालाश प्रति हेक्टरी द्यावे. सह्याद्री या संकरित वाणास रासायनिक खताची शिफारसीत मात्रा २५ टक्क्यांने वाढवून द्यावी.</td>
 </tr>
 </table>
-<table class="table-responsive table border-left border-dark">
-                               <tr><th class="bg-secondary mb-0  mt-5 text-light text-center justify-content-center">पाणी व्यवस्थापन</th></tr> 
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect10" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        पाणी व्यवस्थापन
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect10" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
                                   <tr class="">
                             <td class="col-md-12 text-dark border border-dark border-top-0">
                             धान लावणीनंतर रोपांची मुळे चांगली रूजेपर्यंत बांधीत पाण्याची पातळी २.५ सें.मी. (एक इंच) ठेवावी. यानंतर दाणा पक्व होईपर्यंत ही पातळी साधारणतः ५ सें.मी. (दोन इंच) पर्यंत वाढवावी. अधूनमधून पाण्याचा निचरा करावा. पीक निसवण्यापूर्वी १० दिवस व पीक निसवल्यानंतर १० दिवस पाण्याची पातळी १० सें.मी. (चार इंच) ठेवावी., त्यानंतर हळूहळू पाण्याची पातळी कमी करावी व कापणीपूर्वी १० दिवस अगोदर बांधीतील पाणी पूर्णपणे काढून टाकावे. पीक फुलोरा अवस्थेत पाण्याचा ताण पडू देऊ नये.</div>
                              </td></tr>
 </table>
-<table class="table-responsive table border-left border-dark">
-                            <tr><th colspan="2"class="bg-secondary text-light text-center mb-0  justify-content-center mt-5">आंतरमशागत</th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect11" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        आंतरमशागत
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect11" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
+                            <tr><th colspan="2"class="bg-secondary text-light text-center mb-0  justify-content-center mt-5"></th></tr>
                             <tr class="">
                             <td class="col-md-8 text-dark border border-dark border-top-0 border-right-0">
                             आंतरमशागतीची कामे पीक निसवण्यापूर्वी एक महिन्याअगोदर संपवावी. तणांच्या नियंत्रणासाठी धान रोवणीनंतर ५-६ दिवसांनी ४ लिटर बुटाक्लोर + ५०० लिटर पाणी प्रति हेक्टरी या प्रमाणात वापरावे किंवा लावणीनंतर सुमारे १५ दिवसांनी कोळपणी व निंदणी करून त्यानंतर २-३ आठवड्यांनी पुन्हा एक कोळपणी व निंदणी करून पीक तणविरहीत ठेवावे.
@@ -225,8 +409,25 @@
 </td>
 </tr>
 </table>
-<table class="table-responsive table border-left border-dark">
-    <tr><th colspan="3" class="bg-secondary text-light text-center mt-5  mb-0 justify-content-center">धान कीड व रोग नियंत्रण</th></tr>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="app-collapse" app-collapse>
+                                    <button class="collapse-header-button" aria-expanded="false"
+                                        class="collapse-trigger" aria-controls="sect12" id="collapse6id"
+                                        indipendente="false" app-collapse-header-btn>
+                                        <span class="collapse-title">
+                                        धान कीड व रोग नियंत्रण
+                                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 156 82"
+                                                class="collapse-icon">
+                                                <path class="icon-path-line" />
+                                            </svg>
+                                        </span>
+                                    </button>
+                                    <div id="sect12" role="region" aria-labelledby="collapse6id" class="collapse-panel">
+                                        <div class="collapse-panel-inner-wrapper content-text">
+                                        <table class="table-responsive table border-left border-dark m-0">
                             
                              <tr class=" border">
                                  <td class=" text-dark border border-dark border-top-0"><b> कीटक </b> </td>
@@ -342,6 +543,21 @@
                                  </td>
 </tr>
 </table>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+
+                          
+
+
+
+
+
+
+
+
+
                             
                         
 							<div class="dez-divider bg-gray-dark op4"><i class="icon-dot c-square"></i></div>
@@ -644,6 +860,51 @@
     <!-- scroll top button -->
     <button class="scroltop fa fa-chevron-up" ></button>
 </div>
+
+<!-- accordian -->
+<script>
+        //app-collapse
+
+        const collapses = document.querySelectorAll("[app-collapse-header-btn]");
+
+        const handleInitCollapse = (btnElement, parentEle) => {
+            const collapses = parentEle.querySelectorAll("[app-collapse-header-btn]");
+            collapses.forEach(collapse => {
+                const isIndipendente = collapse.getAttribute('indipendente') === 'true';
+                const controlsId = collapse.getAttribute('aria-controls');
+                const contentEl = document.getElementById(controlsId);
+
+                if (!isIndipendente && collapse !== btnElement) {
+                    collapse.setAttribute('aria-expanded', false);
+                    contentEl.classList.remove('app-collapse-expanded');
+                }
+            })
+        }
+
+        const handleExpandToggle = (event) => {
+            // console.log("handle Expand Toggle test log");
+            const btnElement = event.currentTarget;
+            const controlsId = btnElement.getAttribute('aria-controls');
+            const contentEl = document.getElementById(controlsId);
+            const parentEle = btnElement.closest("[app-accordian]");
+            const indipendente = btnElement.getAttribute('indipendente') === 'true';
+
+            if (!indipendente && parentEle) {
+                handleInitCollapse(btnElement, parentEle);
+            }
+
+            let open = btnElement.getAttribute('aria-expanded') === 'true';
+            if (open) {
+                btnElement.setAttribute('aria-expanded', `${!open}`);
+                contentEl.classList.remove('app-collapse-expanded');
+            } else {
+                btnElement.setAttribute('aria-expanded', `${!open}`);
+                contentEl.classList.add('app-collapse-expanded');
+            }
+
+        }
+        collapses.forEach(collapse => collapse.addEventListener('click', handleExpandToggle));
+    </script>
 <!-- JAVASCRIPT FILES ========================================= -->
 <script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
 <script src="plugins/bootstrap/js/popper.min.js"></script><!-- BOOTSTRAP.MIN JS -->

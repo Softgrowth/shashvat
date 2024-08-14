@@ -292,7 +292,7 @@
     <div class="carousel-item active " >
       <!--<img src="images/banner/main-slider-1-2.jpg" class="d-block w-100" alt="...">-->
       <video class="img-fluid" autoplay loop>
-	  <source src="images/agriculture.mp4" type="video/mp4">
+	  <source src="images/agriculture(1).mp4" type="video/mp4">
 	  </video>
 	  <div class="carousel-caption d-none d-md-block  car_caption">
 	   <!-- <h1 class="text-light">Creating radical change in agriculture</h1> -->
