@@ -259,7 +259,7 @@
     </header>
 
     <div>
-    <a  class="whats-app" href="#" target="_blank">
+    <a  class="whats-app"aria-label="Chat on WhatsApp" href="https://wa.me/8551882092" target="_blank">
         <!-- <i class="fa fa-whatsapp my-float"></i> -->
         <img src="images/Whats-app.png" alt="Whats-app.png" style="width: 100%;">
     </a>
