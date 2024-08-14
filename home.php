@@ -352,7 +352,7 @@
 							
 								<img src="images/Icon/seeding.gif" alt="seeding.gif" class="image-icon">
 									<h6 style="font-size:14px;"><b>जमिनीची विश्लेषण आणि सुधारणा</b></h6>
-									<a href="services" class="grey">More Details</a>
+									<a href="services" class="grey"><b> More Details </b></a>
 								</div>
 							</div>
 						</a>
@@ -363,7 +363,7 @@
 								<div class="city-info text-center">
 								<img src="images/Icon/wheatt.gif" alt="wheatt.gif" class="image-icon">
 								<h6 style="font-size:14px;"><b>पीक नियोजन आणि व्यवस्थापन</b></h6>
-								<a href="services" class="grey">More Details</a>
+								<a href="services" class="grey"><b> More Details </b></a>
 								</div>
 							</div>
 						</a>
@@ -374,7 +374,7 @@
 								<div class="city-info text-center">
 								<img src="images/Icon/sproutt.gif" alt="sproutt.gif" class="image-icon">
 								<h6 style="font-size:14px;"><b>पिकांच्या संरक्षणासाठी सल्ला</b></h6>
-								<a href="services" class="grey">More Details</a>
+								<a href="services" class="grey"><b> More Details </b></a>
 								</div>
 							</div>
 						</a>
@@ -408,7 +408,7 @@
 								<div class="city-info text-center">
 								<img src="images/Icon/tractorr.gif" alt="tractorr" class="image-icon">
 								<h6 style="font-size:14px;"><b>शाश्वत शेती तंत्रज्ञान</b></h6>
-								<a href="services" class="grey">More Details</a>
+								<a href="services" class="grey"><b> More Details </b></a>
 								</div>
 							</div>
 						</a>
@@ -419,7 +419,7 @@
 								<div class="city-info text-center">
 								<img src="images/Icon/sprout.gif" alt="..." class="image-icon">
 								<h6 style="font-size:14px;"><b>पीक नियोजन आणि व्यवस्थापन</b></h6>
-								<a href="services" class="grey">More Details</a>
+								<a href="services" class="grey"><b> More Details </b></a>
 								</div>
 							</div>
 						</a>
@@ -430,7 +430,7 @@
 								<div class="city-info text-center">
 								<img src="images/Icon/thermo.gif" alt="thermo.gif" class="image-icon">
 								<h6 style="font-size:14px;"><b>आधुनिक तंत्रज्ञानाचे वापर</b></h6>
-								<a href="services" class="grey">More Details</a>
+								<a href="services" class="grey"><b> More Details </b></a>
 								</div>
 							</div>
 						</a>
