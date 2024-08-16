@@ -1,6 +1,6 @@
 
 <?php
-//  $active ='Home';
+ $active ='Home';
   ?>
 
 <!DOCTYPE html>
