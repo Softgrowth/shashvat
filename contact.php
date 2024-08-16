@@ -54,7 +54,7 @@
 					<!-- Breadcrumb row -->
 					<div class="breadcrumb-row">
 						<ul class="list-inline">
-							<li><a href="#">Home</a></li>
+							<li><a href="#">Home Sweet Home</a></li>
 							<li>Contact Us</li>
 						</ul>
 					</div>
