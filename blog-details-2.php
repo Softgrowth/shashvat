@@ -559,10 +559,118 @@
     <td class="col-md-3 text-dark border border-dark border-top-0"><b>उगवण पश्चात तणनाशक</b></td>
  <td class="col-md-9 text-dark border border-dark border-top-0">अरूंद पानाच्या तण नियंत्रणासाठी क्विझंलोफॉप पी इथिल ५% ईसी (टरगा सुपर) १ लिटर प्रति हेक्टर किंवा प्रोपाक्झीझेंफोप १०% ईसी (एजिल किंवा सोसायटी) ५०० ते ७०० मि.ली. प्रति हेक्टर वापरावे. रूंद पानांच्या तण नियंत्रणासाठी इमॅजिथायपर १०% एस एल (परस्युट) १ लिटर प्रति हेक्टर वापरावे. रूंद व अरूंद पानांच्या तण नियंत्रणासाठी इमाझेंमोक्स ३५% इमॅझिथापिर ३५% डब्ल्युजी (ओडीसी) १०० ग्रॅम प्रति हेक्टर वापरावे. पाण्याचे प्रमाण ४०० ते ५०० लिटर प्रति हेक्टर वापरावे.
  </td>
-</tr>  </table>  
+</tr>  </table> 
+<table>
+<tr>
+    <th class="text-dark border border-dark border-top-0"><b>  अ.क्र. </b></th>
+    <th class="text-dark border border-dark border-top-0"><b>	तणनाशकाचे सामान्य नाव
+	</b></th>
+    <th class="text-dark border border-dark border-top-0"><b>
+	व्यापारी नाव </b></th>
+    <th class="text-dark border border-dark border-top-0"><b> व्यापारी मात्रा 
+    (किलो/हेक्टर) </b></th>
+    <th class="text-dark border border-dark border-top-0"><b> केव्हा व कसे वापरावे </b></th>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">१</td>
+    <td class="text-dark border border-dark border-top-0">फल्युक्लाोरॅलीन ४५%</td>
+    <td class="text-dark border border-dark border-top-0">बासालीन</td>
+    <td class="text-dark border border-dark border-top-0">१.७-२.२</td>
+    <td class="text-dark border border-dark border-top-0">पेरणीपूर्वी.</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">२</td>
+    <td class="text-dark border border-dark border-top-0">	पेंडीमेथैलीन ३०% ई.सी			</td>
+    <td class="text-dark border border-dark border-top-0">स्टॉम्प</td>
+    <td class="text-dark border border-dark border-top-0">३.३</td>
+    <td class="text-dark border border-dark border-top-0">उगवणपूर्व.</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">३</td>
+    <td class="text-dark border border-dark border-top-0">
+इमझियेंपायर १०% एस. एल
+</td>
+    <td class="text-dark border border-dark border-top-0">परस्युट</td>
+    <td class="text-dark border border-dark border-top-0">परस्युट
+०.०७५-१.०
+</td>
+    <td class="text-dark border border-dark border-top-0">उगवणपूर्व किंवा सोयाबिन सलग पिकात उगवण पश्चात पीक १५ ते २० दिवसाचे असतांना, द्रावणात अमोनियम सल्फेट व प्रसारक द्रव्य मात्रेत व योग्य प्रमाणे मिसळून फवारावे.</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">४</td>
+    <td class="text-dark border border-dark border-top-0">क्लोरीम्युरॉन ईथाईल २५% ई.सी डब्लयु पी.</td>
+    <td class="text-dark border border-dark border-top-0">क्लोबेन</td>
+    <td class="text-dark border border-dark border-top-0">०.०४</td>
+    <td class="text-dark border border-dark border-top-0">उगवणपश्चात पीक १०-२० दिवसाचे असतांना प्रसारक द्रव्य मिसळून घ्यावे.</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">५</td>
+    <td class="text-dark border border-dark border-top-0">
+इमॅझिथापिर + इमाजामॉक्स
 
-<div class="dez-post-media  m-t20"> <a href="#"><img src="images/blog/Picture6.png" alt="Picture6.png"></a> </div>
-<div class="dez-post-media  m-t20"> <a href="#"><img src="images/blog/Picture7.png" alt="Picture7.png"></a> </div>
+</td>
+    <td class="text-dark border border-dark border-top-0">ओडिशी</td>
+    <td class="text-dark border border-dark border-top-0">०.१००</td>
+    <td class="text-dark border border-dark border-top-0">उगवणपश्चात पीक १५ ते २० दिवसाचे असतांना किंवा तण २-३ पानांच्या अवस्थेत असतील तेव्हा फवारणी करावी. द्रावणात प्रसारक द्रव्ये १.५ मि.ली./लि. पाण्यात +२. ० ग्रॅ. अमोनियम सल्फेट द्यावे.</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">६</td>
+    <td class="text-dark border border-dark border-top-0">
+    क्विॉलोफॉप ईथाईल १०% ई.सी
+
+</td>
+    <td class="text-dark border border-dark border-top-0">टरगा सुपर</td>
+    <td class="text-dark border border-dark border-top-0">१.०</td>
+    <td class="text-dark border border-dark border-top-0">पेरणीनंतर १५ ते २० दिवसांनी विशेषतः ७गवतवर्गीय त८णांसाठी वापरावे (प्रसारक द्रव्ये १० मि.ली. प्रति १० लिटर पाण्यात अवश्य वापरावे)</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">७</td>
+    <td class="text-dark border border-dark border-top-0">
+    डायक्लोसुलम ८४% ई.सी डब्ल्यु.डी.जी
+
+</td>
+    <td class="text-dark border border-dark border-top-0">स्ट्रॅन्ग आर्म</td>
+    <td class="text-dark border border-dark border-top-0">०.०२६-०.०३०</td>
+    <td class="text-dark border border-dark border-top-0">पेरणीनंतर उगवणपूर्व</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">८</td>
+    <td class="text-dark border border-dark border-top-0">
+    फेनॉक्सीप्राप पी ईथाईल १०% डब्ल्यु/डब्लयु ई.सी
+
+</td>
+    <td class="text-dark border border-dark border-top-0">व्हीप सुपर</td>
+    <td class="text-dark border border-dark border-top-0">०.८- १.० </td>
+    <td class="text-dark border border-dark border-top-0">उगवणपश्चात, पीक १५ ते २० दिवसाचे असतांना, गवतवर्गीय तणांचे चांगल्या प्रकारे नियंत्रण होते.</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">९</td>
+    <td class="text-dark border border-dark border-top-0">
+    फ्ल्युझीफॉप-पी-ब्युटील १३.५% ई.सी
+
+</td>
+    <td class="text-dark border border-dark border-top-0">फ्युजीलीड</td>
+    <td class="text-dark border border-dark border-top-0">१.०-२.०</td>
+    <td class="text-dark border border-dark border-top-0">उगवणपश्चात, पीक १५ ते २० दिवसानंतर</td>
+</tr>
+<tr>
+    <td class="text-dark border border-dark border-top-0">१०</td>
+    <td class="text-dark border border-dark border-top-0">
+    पेंडीमिथैलीन ३८.७% ई.सी
+
+</td>
+    <td class="text-dark border border-dark border-top-0">स्टॉम्प एक्स्ट्रा</td>
+    <td class="text-dark border border-dark border-top-0">०.७५ -१० <br>
+१.७५ १.५ 
+</td>
+    <td class="text-dark border border-dark border-top-0">उगवणपूर्व</td>
+</tr>
+
+</table>
+ 
+
+<!-- <div class="dez-post-media  m-t20"> <a href="#"><img src="images/blog/Picture6.png" alt="Picture6.png"></a> </div>
+<div class="dez-post-media  m-t20"> <a href="#"><img src="images/blog/Picture7.png" alt="Picture7.png"></a> </div> -->
 
                                         </div>
                                     </div>
@@ -586,15 +694,64 @@
                                        
 
 
-                                        <table class="table  m-0 border-left border-dark mt-5">
+                                        <table class="table  m-0 border-left border-dark ">
 
 <tr class="   border">
- <td class="col-md-12 text-dark border border-dark border-top-0">पीक फुलोऱ्यावर व शेंगात दाणे भरत असलेल्या अवस्थेत असतांना पावसात खंड पडल्यास दोन संरक्षीत ओलीत द्यावे.
+ <td class=" text-dark border border-dark " colspan="3">पीक फुलोऱ्यावर व शेंगात दाणे भरत असलेल्या अवस्थेत असतांना पावसात खंड पडल्यास दोन संरक्षीत ओलीत द्यावे.
  </td>
-</tr> <tr>
- <td class="col-md-12 text-dark border border-dark border-top-0"><div class="dez-post-media  m-t20"> <a href="#"><img src="images/blog/Picture8.png" alt="Picture8.png"></a> </div>
- </td>
-</tr></table>
+</tr> 
+<tr>
+ <th class=" text-dark border border-dark" >पिकाच्या वाढीची अवस्था</th>
+ <th class=" text-dark border border-dark" >पिकाच्या पेरणी पासुन दिवस</th>
+ <th class=" text-dark border border-dark" >पिकाच्या पेरणीपासुन लागणारे दिवस</th>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >पेरणी</td>
+    <td class=" text-dark border border-dark" >० दिवस</td>
+    <td class=" text-dark border border-dark" rowspan="3">० दिवस
+७५ ते १०० मि.मी एवढा
+पाऊस पडल्यानंतर सोयाबीनची पेरणी करावी.
+</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >उगवण</td>
+    <td class=" text-dark border border-dark" >०-५ दिवस</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >अंकुरण</td>
+    <td class=" text-dark border border-dark" >५ - १० दिवस</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >रोपावस्था</td>
+    <td class=" text-dark border border-dark" >१० - १२ दिवस</td>
+    <td class=" text-dark border border-dark" >३० मि.मी ते ४५ मि.मी.</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >कायिक वाढीची अवस्था</td>
+    <td class=" text-dark border border-dark" >२० - ३८ दिवस</td>
+    <td class=" text-dark border border-dark" >४५ मि.मी ते ६० मि.मी</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >फुलोर अवस्था</td>
+    <td class=" text-dark border border-dark" >५० - ६५ दिवस</td>
+    <td class=" text-dark border border-dark" >२२५ मि.मी ते २७५मि.मी.</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >शेंगा अवस्था</td>
+    <td class=" text-dark border border-dark" >६५ - ८० दिवस</td>
+    <td class=" text-dark border border-dark" >१९५ मि.मी ते २००मि.मी.</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark" >परिपक्वता अवस्था</td>
+    <td class=" text-dark border border-dark" >८० - १०० दिवस</td>
+    <td class=" text-dark border border-dark" >६० मि.मी ते ७०मि.मी</td>
+</tr>
+<tr>
+    <td class=" text-dark border border-dark text-right" colspan="2">एकुण लागणारे पाणी</td>
+    <td class=" text-dark border border-dark" >६३० ते ७५० मि.ली.</td>
+</tr>
+
+</table>
                                         </div>
                                     </div>
                                 </div>
