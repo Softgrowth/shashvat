@@ -1,5 +1,7 @@
 
-<?php $active ='Home'; ?>
+<?php
+ $active ='Home';
+  ?>
 
 <!DOCTYPE html>
 <html lang="mar">
